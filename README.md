@@ -21,4 +21,4 @@ This Python script calculates the perimeter and area of various geometric shapes
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Shape-Calculator.git
+   git clone https://github.com/PashaNasirahmadi/Shape-Calculator.git
